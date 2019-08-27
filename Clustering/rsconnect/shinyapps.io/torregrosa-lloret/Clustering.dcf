@@ -1,0 +1,12 @@
+name: Clustering
+title: Clustering
+username:
+account: torregrosa-lloret
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1118020
+bundleId: 2360072
+url: https://torregrosa-lloret.shinyapps.io/Clustering/
+when: 1566915944.73938
+asMultiple: FALSE
+asStatic: FALSE
